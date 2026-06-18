@@ -1,8 +1,8 @@
-# Hi, I’m Marina 👋
+# Hi, I’m Marina 
 
-Senior Technical Communicator for software and cloud documentation.
+I am a Senior Technical Communicator for software and cloud documentation.
 
-I focus on creating clear, structured, and user-centered documentation that makes complex systems easy to understand and use.
+I create clear, structured, and user-centered documentation that makes complex systems easy to understand and use.
 
 ---
 
@@ -18,7 +18,7 @@ I focus on creating clear, structured, and user-centered documentation that make
 
 ## 🚀 What I’m currently building
 
-I recently started building a technical writing portfolio using a Docs-as-Code approach.
+I’m currently building a technical writing portfolio using a Docs-as-Code approach.
 
 It includes:
 - API documentation
@@ -32,7 +32,7 @@ It includes:
 
 ## 📂 Portfolio
 
-👉 [Technical Writing Portfolio](https://github.com/marina-wagner-techdoc/technical-writing-portfolio)
+👉 **[View my Technical Writing Portfolio](https://github.com/marina-wagner-techdoc/technical-writing-portfolio)**
 
 ---
 
@@ -44,4 +44,4 @@ I supported a fitness and wellness app (fitElle) with UX writing feedback and be
 
 ## 📫 Let’s connect
 
-👉 [LinkedIn](https://www.linkedin.com/in/marina-wagner-858126143/)
+👉 **[LinkedIn Profile](https://www.linkedin.com/in/marina-wagner-8581261

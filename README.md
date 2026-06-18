@@ -2,7 +2,7 @@
 
 I am a Senior Technical Communicator with a strong background in software and cloud documentation.  
 
-I’m currently exploring modern documentation approaches such as docs-as-code. 
+I’m currently expanding modern documentation approaches such as docs-as-code. 
 
 I am bridging structured technical documentation with modern, user-centered approaches.
 

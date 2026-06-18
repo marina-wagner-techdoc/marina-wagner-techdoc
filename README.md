@@ -43,7 +43,7 @@ I enjoy creating clear, structured, and user-centered documentation that makes c
 - UX writing improvements and microcopy  
 - Experiments with structure, clarity, and style  
 
-👉 Based on a real AI-based cycle tracking app (fitElle): https://www.fitelle.app/
+👉 Based on a real AI-driven cycle tracking app (fitElle): https://www.fitelle.app/
 
 ---
 

@@ -18,7 +18,7 @@ I am bridging structured technical documentation with modern, user-centered appr
 
 ---
 
-## 🌿 Currently learning
+## 🌿 Currently improving
 
 - Docs-as-code workflows  
 - Markdown & structured writing  

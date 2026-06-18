@@ -1,6 +1,7 @@
 # Hi, I’m Marina 
 
-### 🧩 Technical Writing · UX · Docs-as-Code
+### ⭐ Technical Writing · UX · Docs-as-Code
+
 
 I am a Senior Technical Communicator with a strong background in software and cloud documentation.  
 

@@ -11,14 +11,14 @@ I am bridging structured technical documentation with modern, user-centered appr
 ## 🧩 What I Do
 
 - UX writing & UI text optimization  
-- Improving user experience through clear, intuitive documentation  
+- Improving usability through clear, intuitive documentation  
 - Structured content & information architecture  
 - Localization & terminology management
 - Version control and collaboration using Git (branching, pull requests, review workflows)
 
 ---
 
-## 🌿 Currently improving
+## 🌿 Currently learning and expanding
 
 - Docs-as-code workflows  
 - Markdown & structured writing  

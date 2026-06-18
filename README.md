@@ -1,5 +1,7 @@
 # Hi, I’m Marina 
 
+### 🧩 Technical Writing · UX · Docs-as-Code
+
 I am a Senior Technical Communicator with a strong background in software and cloud documentation.  
 
 I’m currently expanding my expertise in modern documentation approaches such as docs-as-code, Git, and developer workflows.
@@ -18,7 +20,7 @@ I am bridging structured technical documentation with modern, user-centered appr
 
 ---
 
-## 🌿 Currently learning and expanding
+## 🌿 Currently expanding
 
 - Docs-as-code workflows  
 - Markdown & structured writing  

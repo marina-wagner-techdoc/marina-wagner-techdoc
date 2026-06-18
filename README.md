@@ -1,14 +1,14 @@
 # Hi, I’m Marina 
 
-I am a Senior Technical Communicator with several years of experience in software and cloud documentation.
+I am a Senior Technical Communicator with a strong background in software and cloud documentation.  
 
-I’m currently exploring modern documentation approaches such as docs-as-code, Git, and developer workflows. Areas, I find particularly interesting and exciting right now.
+I’m currently exploring modern documentation approaches such as docs-as-code, Git, and developer workflows. Areas, I find particularly exciting right now.  
 
-I enjoy creating clear, structured, and user-centered documentation that makes complex systems easier to understand and use.
+I am bridging structured technical documentation with modern, user-centered approaches.
 
 ---
 
-## 🔧 What I Do
+## 🧩 What I Do
 
 - UX writing & UI text optimization  
 - Improving user experience through clear, intuitive documentation  
@@ -18,7 +18,7 @@ I enjoy creating clear, structured, and user-centered documentation that makes c
 
 ---
 
-## 🌱 Currently learning
+## 🌿 Currently learning
 
 - Docs-as-code workflows  
 - Markdown & structured writing  
@@ -36,7 +36,7 @@ I enjoy creating clear, structured, and user-centered documentation that makes c
 
 ---
 
-## 📚 What you’ll find here
+## 📄 What you’ll find here
 
 - API documentation examples  
 - User documentation samples  
@@ -67,6 +67,6 @@ I supported a fitness and wellness app (fitElle) with UX writing feedback and be
 
 ---
 
-## 📫 Let’s connect
+## ✉️ Let’s connect
 
 👉 [LinkedIn Profile](https://www.linkedin.com/in/marina-wagner-858126143/)

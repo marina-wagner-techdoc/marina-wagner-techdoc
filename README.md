@@ -1,8 +1,10 @@
 # Hi, I’m Marina 
 
-I am a Senior Technical Communicator for software and cloud documentation.
+I am a Senior Technical Communicator with several years of experience in software and cloud documentation.
 
-I create clear, structured, and user-centered documentation that makes complex systems easy to understand and use.
+I’m currently exploring modern documentation approaches such as docs-as-code, Git, and developer workflows. Areas I find particularly interesting and exciting right now.
+
+I enjoy creating clear, structured, and user-centered documentation that makes complex systems easier to understand and use.
 
 ---
 

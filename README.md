@@ -26,7 +26,7 @@ It includes:
 - UX writing examples
 - GDPR-related content
 
-👉 Based on a real fitness and wellness app (fitElle)
+👉 Based on a real fitness and wellness app (fitElle): https://www.fitelle.app/
 
 ---
 

@@ -44,4 +44,4 @@ I supported a fitness and wellness app (fitElle) with UX writing feedback and be
 
 ## 📫 Let’s connect
 
-👉 **[LinkedIn Profile](https://www.linkedin.com/in/marina-wagner-8581261
+👉 [LinkedIn Profile](https://www.linkedin.com/in/marina-wagner-858126143/)
